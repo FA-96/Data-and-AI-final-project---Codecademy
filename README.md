@@ -5,7 +5,7 @@ This project, completed as part of the Codecademy Data and AI Fundamentals cours
 
 ## Data Sources
 - Electoral Commission: https://search.electoralcommission.org.uk/English/Search/Donations?currentPage=1&rows=30&sort=AcceptedDate&order=asc&tab=1&open=filter&et=pp&et=rd&isIrishSourceYes=false&isIrishSourceNo=false&date=Reported&from=&to=&quarters=2024q123&quarters=2023q4&quarters=2019q1234&quarters=2017q123&quarters=2016q4&prePoll=true&postPoll=true&register=gb&register=ni&register=none&optCols=Register&optCols=CampaigningName&optCols=AccountingUnitsAsCentralParty&optCols=IsSponsorship&optCols=IsIrishSource&optCols=RegulatedDoneeType&optCols=CompanyRegistrationNumber&optCols=Postcode&optCols=NatureOfDonation&optCols=PurposeOfVisit&optCols=DonationAction&optCols=ReportedDate&optCols=IsReportedPrePoll&optCols=ReportingPeriodName&optCols=IsBequest&optCols=IsAggregation 
-- UK Parliament Website: https://www.parliament.uk/
+
 
 ## Elections Analyzed
 - 2017 UK General Election
